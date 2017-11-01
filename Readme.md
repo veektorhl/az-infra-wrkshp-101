@@ -1,5 +1,6 @@
 # Initial setup
 - Prepare Azure subscription for the lab.
+- To access VM and Cloud Sehll, make sure you can access (outbound) TCP 22 port from your network.
 
 # Agenda 
 
@@ -11,8 +12,6 @@ Before workshop let's discuss about Azure IaaS.
     - VM Types and sizes
     - Storage
     - Networking
-    - Monitoring
-    - Backup and recovery 
 
 Understand lab scenarios.
 
